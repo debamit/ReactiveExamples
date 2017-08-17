@@ -9,9 +9,10 @@ Example 1 : Simple Observable on interval
 SimpleIntervalServer run main()
 
 Example 2 : Stock Observable and Flowable
+
 StockServerExample run main()
 
-Example 3: Flow fledged example running on cluster passing msg between 3 different services
+Example 3: Full fledged example of a event based reactive architecture running on cluster passing msg between 3 different services
 
 SockJsServer run main()
 Appointment run main()
